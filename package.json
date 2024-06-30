@@ -1,0 +1,7 @@
+{
+  "name": "intelinvest-project",
+  "workspaces": [
+    "platform",
+    "intelinvest"
+  ]
+}

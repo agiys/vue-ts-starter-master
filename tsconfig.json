@@ -1,0 +1,7 @@
+{
+    "files": [],
+    "references": [
+        {"path": "./platform/tsconfig.json"},
+        {"path": "./intelinvest/tsconfig.json"},
+    ]
+}
